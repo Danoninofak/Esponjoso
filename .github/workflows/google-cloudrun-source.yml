@@ -1,4 +1,4 @@
-# This workflow will deploy source code on Cloud Run when a commit is pushed to
+actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332# This workflow will deploy source code on Cloud Run when a commit is pushed to
 # the "main" branch.
 #
 # To configure this workflow:
